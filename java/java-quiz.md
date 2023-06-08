@@ -2071,7 +2071,7 @@ Queue<Rainfall>
 
 #### Q141. Among the following which contains date information?
 
-- [x] java.sql timestamp
+- [x] java.sql.Timestamp
 - [ ] java.io time
 - [ ] java.io.timestamp
 - [ ] java.sql.time
