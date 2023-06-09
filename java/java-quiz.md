@@ -2286,7 +2286,8 @@ public class Course {
 
 - [ ] course java
       tutorial Merit campus
-- [x] course java
+- [x] 
+      course java
       course java tutorial Merit campus
 - [ ] Compilation Error
 - [ ] Runtime Error
